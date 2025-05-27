@@ -9,7 +9,7 @@ The repo contains all infrastructure-as-code, Lambda scripts, and a Jupyter note
 ## 📁 Project Structure
 
 ```
-rearc-quest-new/
+rearc-quest/
 │
 ├── lambda/                          # All Lambda functions
 │   ├── bls_file_sync/              # Lambda for syncing BLS data
