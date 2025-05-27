@@ -147,6 +147,7 @@ Use `analysis.ipynb` to:
 - Re-run or prototype analytics from `report_generator.py`
 - Load data from S3 into PySpark or Pandas
 - Validate outputs before production runs
+- Demonstrate multi-language capability using both Pandas and PySpark for identical analysis
 
 To run:
 
