@@ -1,4 +1,4 @@
-# Rearc Data Engineering Quest
+# Rearc Data Engineering Quest - Brandon Young
 
 This project is a full-featured data pipeline built using AWS CDK, Lambda, S3, SQS, and Python. It automates the ingestion, processing, and analysis of data from public sources such as the Bureau of Labor Statistics (BLS) and DataUSA.
 
