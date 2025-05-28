@@ -77,7 +77,7 @@ unzip awscliv2.zip
 sudo ./aws/install
 ```
 
-# Windows
+### Windows
 [Download the AWS CLI MSI installer](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html)
 
 Configure your credentials:
