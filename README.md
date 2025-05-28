@@ -76,8 +76,7 @@ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip
 unzip awscliv2.zip
 sudo ./aws/install
 
-# Windows (via MSI)
-Download from: https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html
+**Windows** [Download the AWS CLI MSI installer](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html)
 ```
 
 Configure your credentials:
