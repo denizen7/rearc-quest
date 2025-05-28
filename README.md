@@ -106,7 +106,7 @@ cdk --version
 
 ```bash
 git clone https://github.com/your-org/rearc-quest.git
-cd rearc-quest-new
+cd rearc-quest
 
 # Create and activate virtual environment
 python -m venv venv
