@@ -75,9 +75,10 @@ The entire pipeline is orchestrated using AWS CDK:
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 unzip awscliv2.zip
 sudo ./aws/install
-
-**Windows** [Download the AWS CLI MSI installer](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html)
 ```
+
+# Windows
+[Download the AWS CLI MSI installer](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html)
 
 Configure your credentials:
 
